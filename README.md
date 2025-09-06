@@ -32,4 +32,4 @@ A full-stack web application to **connect employers and job seekers** using **Sp
 
 
 
-[Click here to view the demo](videos/demo.mp4)
+[Click here to view the demo](contents/DEMO-VIDEO.mp4)
